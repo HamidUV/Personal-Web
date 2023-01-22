@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("/Personal/Backgroundimage.jpg") top right no-repeat;
+  background: #040404 url("https://raw.githubusercontent.com/HamidUV/Personal-Web/main/Backgroundimage.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
